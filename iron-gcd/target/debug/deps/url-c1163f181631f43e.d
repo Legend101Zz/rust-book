@@ -1,0 +1,13 @@
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd/target/debug/deps/url-c1163f181631f43e.rmeta: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd/target/debug/deps/url-c1163f181631f43e.d: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

@@ -1,0 +1,13 @@
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd/target/debug/deps/iron-7aeecd2122d4b5d6.rmeta: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/error.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/middleware/mod.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/response.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/mod.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/url.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/modifiers.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/macros.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/iron.rs
+
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd/target/debug/deps/iron-7aeecd2122d4b5d6.d: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/error.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/middleware/mod.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/response.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/mod.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/url.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/modifiers.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/macros.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/iron.rs
+
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/lib.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/error.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/middleware/mod.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/response.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/mod.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/request/url.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/modifiers.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/macros.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/iron-0.5.1/src/iron.rs:
