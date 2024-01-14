@@ -1,0 +1,10 @@
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd-web/target/debug/deps/rustc_serialize-971856a6fd12faec.rmeta: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/serialize.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/collection_impls.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/base64.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/hex.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/json.rs
+
+/Users/comreton/Desktop/rust-bot/RUST-BOOK/iron-gcd-web/target/debug/deps/rustc_serialize-971856a6fd12faec.d: /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/lib.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/serialize.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/collection_impls.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/base64.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/hex.rs /Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/json.rs
+
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/lib.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/serialize.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/collection_impls.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/base64.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/hex.rs:
+/Users/comreton/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.25/src/json.rs:
